@@ -52,7 +52,6 @@ tsconfig.tsbuildinfo
 # Testing
 coverage/
 
-package-lock.json
 
 logs
 *.log
